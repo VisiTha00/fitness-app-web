@@ -4,6 +4,7 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// Response to the frontend
 @Data
 public class UserResponse {
     private String id;

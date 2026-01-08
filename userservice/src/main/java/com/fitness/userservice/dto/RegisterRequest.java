@@ -5,6 +5,8 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.Data;
 
+
+//Creating user dto
 @Data
 public class RegisterRequest {
     @NotBlank(message = "Email is required")
