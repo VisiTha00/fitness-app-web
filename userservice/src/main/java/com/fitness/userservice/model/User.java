@@ -1,5 +1,6 @@
 package com.fitness.userservice.model;
 
+// Added user model
 import jakarta.persistence.*;
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
