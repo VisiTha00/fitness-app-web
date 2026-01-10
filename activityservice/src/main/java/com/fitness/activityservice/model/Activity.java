@@ -13,6 +13,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 import java.time.LocalDateTime;
 import java.util.Map;
 
+// Activity Model
 @Document(collection = "activities")
 @Data
 @Builder

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+// Activity Controller
 @RestController
 @RequestMapping("/api/activities")
 @AllArgsConstructor

@@ -1,5 +1,6 @@
 package com.fitness.activityservice.model;
 
+// Activity Types
 public enum ActivityType {
     RUNNING,
     WALKING,
