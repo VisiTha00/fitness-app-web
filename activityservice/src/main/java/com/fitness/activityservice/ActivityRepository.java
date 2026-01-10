@@ -6,6 +6,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+// Activity Repository
 @Repository
 public interface ActivityRepository extends MongoRepository<Activity, String> {
     List<Activity> findByUserId(String userId);
