@@ -2,7 +2,7 @@
 
 A comprehensive fitness tracking application built with microservices architecture using Spring Boot and React.
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 This application consists of multiple microservices that communicate through Eureka service discovery, API Gateway, and RabbitMQ message broker.
 
@@ -18,7 +18,7 @@ This application consists of multiple microservices that communicate through Eur
 | **AI Service**       | 8083 | AI-Powered Recommendations (Gemini)     | MongoDB    |
 | **Frontend**         | 5173 | React Application (Vite)                | -          |
 
-## 🚀 Technology Stack
+## Technology Stack
 
 ### Backend
 
