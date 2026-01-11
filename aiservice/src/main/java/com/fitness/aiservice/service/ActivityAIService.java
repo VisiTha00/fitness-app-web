@@ -14,6 +14,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+// Format Gemini answer
 @Service
 @Slf4j
 @RequiredArgsConstructor
