@@ -13,6 +13,7 @@ import org.springframework.web.server.WebFilter;
 import org.springframework.web.server.WebFilterChain;
 import reactor.core.publisher.Mono;
 
+// Keycloak user synchronization with the user service
 @Component
 @Slf4j
 @RequiredArgsConstructor
